@@ -1,0 +1,5 @@
+scp -r ../bc ubuntu@192.168.122.60:
+scp -r ../bc ubuntu@192.168.122.61:
+scp -r ../bc ubuntu@192.168.122.62:
+scp -r ../bc ubuntu@192.168.122.63:
+
